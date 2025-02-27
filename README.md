@@ -1,3 +1,5 @@
+<img src = "background.jpg" alt= "background" width = "100%" />
+
 # 💫 Hello World!! I am Priyanshu Rai:
 🔭 👨‍💻 B.Tech CSE student <br>🚀 Passionate about Python, Machine Learning, AI, Web Development & Data Analytics <br>🌱 Currently exploring various development languages & building hands-on projects <br>💡 Always learning, always coding .<br>🔧 Hands-on with projects involving web development, data science, and ML/AI applications.<br>🔍 Focused on building practical skills through real-world coding challenges, algorithms, and collaborative work.<br>📫 Open to collaborations and learning opportunities.
 
